@@ -1,28 +1,19 @@
-# arewa-ds-workspace
-arewa data sciience and machine learning activities
-# My Data Science Profile
-## About Me
-I am learning data science from Arewa data science in Cohort 4.0 with a focus on Python, data analysis, and machine learning.
-## Skills and Tools I Am Learning
+# ArewaDS-Practice
 
-- Python
-- Pandas
-- Scikit-learn
-- Git and Github
-- Markdown
-- Medium Blog post
-## My Learning Resources
+**Personal practice & assignment repository**  
+Arewa Data Science Academy · Cohort 4.0 (2026)
 
-[Arewa Data Science](https://github.com/arewadataScience)
-## Python
+This repository is my sandbox for practicing Git/GitHub workflows and submitting Python for Data Science assignments as required by the Arewa Data Science Bootcamp.
 
-```python
-print("hello, data science")
-```
-## My Learning Progress
+---
 
-| Skill | Status |
-|---|---|
-| Python | Learning |
-| Pandas | Learning |
-| Scikit-learn | Learning |
+## About
+
+- **Student**: Muhammad Abubakar Sadiq  
+- **GitHub**: [sadeeqabber](https://github.com/sadeeqabber)  
+- **Cohort**: Arewa Data Science Bootcamp – Cohort 4.0 (2026)  
+- **Course**: Introduction to Python / Python for Data Science
+
+---
+
+## Repository Structure
