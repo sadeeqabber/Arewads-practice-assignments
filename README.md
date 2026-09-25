@@ -36,7 +36,7 @@ Arewads-practice-assignments/
 |------|--------------------------------|------------|--------------------------------|
 | 1    | First Programs & the Shell     | ✅ Completed | Submitted                      |
 | 2    | Data Types & Expressions       | ✅ Completed | Submitted                      |
-| 3    | Making Decisions               |            |                                |
+| 3    | Making Decisions               |   inprogesss |                                |
 | 4    | Repetition with Loops          |            |                                |
 | 5    | Loop Patterns & Nested Logic   |            |                                |
 | 6    | Strings & Lists                |            |                                |
@@ -47,8 +47,9 @@ Arewads-practice-assignments/
 
 ## Submitted Assignments
 
-- [Week 1 Lab](assignments/week1_lab_completed.ipynb)
-- [Week 2 Lab](assignments/week2_lab_completed.ipynb)
+- [Week 1 Lab](assignments/week1_lab_muhammad_abubakar_sadiq.ipynb)
+- [Week 2 Lab](assignments/week2_lab_muhammad_abubakar_sadiq.ipynb)
+- [Week 3 Lab](assignments/week3_lab_muhammad_abubakar_sadiq.ipynb)
 
 ---
 
