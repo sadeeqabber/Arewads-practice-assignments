@@ -3,7 +3,7 @@
 **Personal practice & assignment repository**  
 Arewa Data Science and Machine Learning Fellowship · Cohort 4.0 (2026)
 
-This repository contains my completed and in-progress lab notebooks for the Arewa Data Science and Machine Learning Fellowship.
+This repository contains my completed lab notebooks for the Arewa Data Science and Machine Learning Fellowship (Introduction to Python).
 
 ---
 
@@ -21,11 +21,13 @@ This repository contains my completed and in-progress lab notebooks for the Arew
 
 ```text
 Arewads-practice-assignments/
-├── assignments/               
+├── assignments/
 │   ├── week1_lab_muhammad_abubakar_sadiq.ipynb
 │   ├── week2_lab_muhammad_abubakar_sadiq.ipynb
 │   ├── week3_lab_muhammad_abubakar_sadiq.ipynb
-│   └── week3_lab_muhammad_abubakar_sadiq_1.ipynb   ← Ongoing lab notebook (updated weekly)
+│   ├── week3_lab_muhammad_abubakar_sadiq_1.ipynb   ← Consolidated notebook covering later weeks
+│   ├── week7_lab_muhammad_abubakar_sadiq.ipynb
+│   └── week8_lab_muhammad_abubkar_sadiq.ipynb
 ├── notebooks/
 ├── scripts/
 ├── projects/
@@ -41,11 +43,11 @@ Arewads-practice-assignments/
 | 1    | First Programs & the Shell   | ✅ Completed   |
 | 2    | Data Types & Expressions     | ✅ Completed   |
 | 3    | Selection and Loops          | ✅ Completed   |
-| 4    | Labs continuation            | 🔄 In Progress |
-| 5    | Loop Patterns & Nested Logic |                |
-| 6    | Strings & Lists              |                |
-| 7    | Dictionaries & Functions     |                |
-| 8    | Functions & Capstone         |                |
+| 4    | Labs continuation            | ✅ 
+| 5    | Loop Patterns & Nested Logic | ✅               |
+| 6    | Strings & Lists              | ✅              |
+| 7    | Dictionaries & Functions     | ✅               |
+| 8    | Functions & Capstone         | ✅             |
 
 ---
 
